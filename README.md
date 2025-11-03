@@ -1,6 +1,6 @@
 # Muni Language Interpreter
 
-![Muni Logo](images/muni_logo.png)
+> This is the first implementation of my language, this project is mostly deprecated and totally not up to date, if you want to see the current implementation, see [the compiler](https://github.com/AntoineBlondon/Muni-Compiler)
 
 ## Getting Started with Muni
 

@@ -14,7 +14,7 @@ Welcome to Muni, a dynamic, expressive programming language designed for ease of
 - Python 3.6 or later
 
 #### Installation
-1. **Download Muni Interpreter:** You can download the latest version of the Muni interpreter from the [GitHub repository](https://github.com/AntoineBlondon/Muni-Interpreter).
+1. **Download Muni Interpreter:** You can download the latest version of the Muni interpreter from the [GitHub repository](https://github.com/azure-blondon/Muni-Interpreter).
 2. **Install Dependencies:** Muni requires Python 3.6 or later. Ensure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 
 #### Setting Up the Interpreter

@@ -239,7 +239,7 @@ The Muni Language Interpreter comes with comprehensive documentation to help you
 
 ### Accessing Documentation
 
-1. **Online**: The most up-to-date documentation can be accessed directly on GitHub. Visit [https://github.com/AntoineBlondon/Muni-Interpreter/tree/master/docs](https://github.com/AntoineBlondon/Muni-Interpreter/tree/master/docs) to browse through the documentation files.
+1. **Online**: The most up-to-date documentation can be accessed directly on GitHub. Visit [https://github.com/azure-blonon/Muni-Interpreter/tree/master/docs](https://github.com/azure-blondon/Muni-Interpreter/tree/master/docs) to browse through the documentation files.
 
 2. **Offline**: If you've cloned the repository or downloaded the source, you can find the documentation in the [docs](docs/) directory. This is especially useful if you prefer to access documentation offline or if you want to have a local copy for quick reference.
 
